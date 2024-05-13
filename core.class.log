@@ -1,0 +1,195 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516134584@s.whatsapp.net',
+    fromMe: false,
+    id: 'B854F7AA99024B0758009D71169F63DC',
+    participant: undefined
+  },
+  messageTimestamp: 1715611610,
+  pushName: 'Mariana',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/20120249_385791511122192_5911733291714857472_n.enc?ccb=11-4&oh=01_Q5AaINSy4iPBg2In--3vOrx7fwBJ4T_MFFHirCloDTsJIVE_&oe=6669ABB5&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 21,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/20120249_385791511122192_5911733291714857472_n.enc?ccb=11-4&oh=01_Q5AaINSy4iPBg2In--3vOrx7fwBJ4T_MFFHirCloDTsJIVE_&oe=6669ABB5&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__00de4461-c6b7-4068-bc8e-38a003d3d2cb',
+  from: '5493516134584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3204A8BE5C1A2810CCB026A2A6028AC',
+    participant: undefined
+  },
+  messageTimestamp: 1715611645,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '5493513173183'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: '3CDBABA1287E713D771AEBCEBB7DF5EF',
+    participant: undefined
+  },
+  messageTimestamp: 1715611676,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    conversation: 'HOLA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'HOLA',
+  from: '5493513173183'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5c3d4899-a784-4301-8c18-e43d0b5a8cca',
+  keyword: 'key_e0c77ea0-e075-4c5b-afe7-f1ffd64a9e68',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '77011cf529d1e836d3d1f0bb0ec90a31'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d1e9f3c1-0576-4379-b999-18a32700428e',
+  keyword: 'ans_5c3d4899-a784-4301-8c18-e43d0b5a8cca',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37cff03deb3b35d2a91fb3732a7336c9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: '53DA7D5C229AE2F647BF8313232B31C4',
+    participant: undefined
+  },
+  messageTimestamp: 1715611683,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    conversation: 'doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '5493513173183'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e47879f-bcc8-4514-9141-7b96228cec51',
+  keyword: 'key_1bf760ba-68d0-4364-b030-135903375381',
+  answer: '📄 Aquí encontras las documentación recuerda que puedes mejorarla\n' +
+    'https://bot-whatsapp.netlify.app/\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e3c74e12a20dcd23b1ea84915b159d03'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: '6D4D9422483ECB5045DB896B641FA686',
+    participant: undefined
+  },
+  messageTimestamp: 1715611709,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493513173183'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb91e1ae-cfb1-456f-8db7-678844f8bfbe',
+  keyword: 'key_3ccc2bdf-54bb-4905-a90f-0e57de54833f',
+  answer: '📄 Aquí tenemos el flujo secundario',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3d233bb848a0379db36c897c90c106d0'
+}
