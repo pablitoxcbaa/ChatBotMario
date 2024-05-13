@@ -213,3 +213,67 @@
   body: 'Que tengo que hacer?? 🤔',
   from: '5493513173183'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: 'E42FB28A29695C03115527C0E72F1F87',
+    participant: undefined
+  },
+  messageTimestamp: 1715611990,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/23654002_498962425799259_5941438291803960425_n.enc?ccb=11-4&oh=01_Q5AaIBCfa30o8nQrIDxgveXXj1BRAk-dxHgY_lq40TTJG2At&oe=6669A37C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/23654002_498962425799259_5941438291803960425_n.enc?ccb=11-4&oh=01_Q5AaIBCfa30o8nQrIDxgveXXj1BRAk-dxHgY_lq40TTJG2At&oe=6669A37C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__bc5f6211-7f2a-4a84-b14c-90601f8c22a8',
+  from: '5493513173183'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: '4F78A6BDB09641BA99F4BDC152DE21C4',
+    participant: undefined
+  },
+  messageTimestamp: 1715612008,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/40809608_457744660170498_2632903940034149470_n.enc?ccb=11-4&oh=01_Q5AaIE1CPAJP19yljf27dMjY90gFy9ycwqN0nRHGPZE2Fu0b&oe=66698951&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 5,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/40809608_457744660170498_2632903940034149470_n.enc?ccb=11-4&oh=01_Q5AaIE1CPAJP19yljf27dMjY90gFy9ycwqN0nRHGPZE2Fu0b&oe=66698951&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__8475737d-e76c-4fe7-b5e1-675d15fbe2c3',
+  from: '5493513173183'
+}
