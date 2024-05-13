@@ -193,3 +193,23 @@
   },
   refSerialize: '3d233bb848a0379db36c897c90c106d0'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513173183@s.whatsapp.net',
+    fromMe: false,
+    id: 'C8A9058A82F906DBD521A0EAD0C20514',
+    participant: undefined
+  },
+  messageTimestamp: 1715611770,
+  pushName: 'Dr. Mario Mathieu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que tengo que hacer?? 🤔',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que tengo que hacer?? 🤔',
+  from: '5493513173183'
+}
